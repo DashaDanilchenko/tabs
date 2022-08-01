@@ -21,10 +21,9 @@
 .display {
     display: none;
     padding: 20px;
-    background: cadetblue;
 }
 
-.javaScript {
+.active {
     background: cadetblue;
     display: flex; 
 }
