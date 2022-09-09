@@ -64,6 +64,7 @@ function activeTab (event) {
             i.classList.remove('active')
         })
     }
-
-
 }
+
+import { x } from './script_2'
+console.log ('x ===>', x)
